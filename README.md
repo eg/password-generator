@@ -1,6 +1,9 @@
-Simple, lightweight javascript password generator
+## About
+Easy to use, simple, lightweight javascript password generator. 
 
-## usage
+## Lightweight?
+It's only <b>4 kb || 4096 bytes</b>
+## Usage
 
 ```javascript
 PasswordGenerator(number);
