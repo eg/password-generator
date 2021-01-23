@@ -6,7 +6,7 @@ It's only <b>4 kb || 4096 bytes</b>
 ## Usage
 
 ```javascript
-PasswordGenerator(number);
+PasswordGenerator(length);
 ```
 
 ## Example
